@@ -1,9 +1,9 @@
-# 💫 About Me:
+#  About Me:
 
-* 🎓 **Computer Science Undergraduate** at FAST Islamabad, focused on building scalable, AI-driven backend systems.
-* 🚀 Currently building a **RAG-based SaaS** and mastering LLMs through the PIAIC AI Engineer program.
-* 🛠️ Experienced in shipping production-grade systems, including a **FastAPI wildlife monitoring backend** and **AI automation workflows**.
-* 💡 Interested in solving real-world problems using **Distributed Systems** and **Modern AI Architectures**
+*  **Computer Science Undergraduate** at FAST Islamabad, focused on building scalable, AI-driven backend systems.
+*  Currently building a **RAG-based SaaS** and mastering LLMs through the PIAIC AI Engineer program.
+*  Experienced in shipping production-grade systems, including a **FastAPI wildlife monitoring backend** and **AI automation workflows**.
+*  Interested in solving real-world problems using **Distributed Systems** and **Modern AI Architectures**
 
 Check out my portfolio: [ashher-portfolio.vercel.app](https://ashher-portfolio.vercel.app)
 
