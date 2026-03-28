@@ -31,6 +31,6 @@ Check out my portfolio: [ashher-portfolio.vercel.app](https://ashher-portfolio.v
 
 ### 🚀 Featured Projects:
 
-* **[FLOW](https://github.com/ashher786)**: A full-stack Android team management app using Kotlin, PHP, and Firebase.
+* **[FLOW](https://github.com/SyedAshherMajid)**: A full-stack Android team management app using Kotlin, PHP, and Firebase.
 * **AI Wildlife Monitoring**: A FastAPI & PostgreSQL backend processing millions of camera trap images with role-based access.
 * **AI Personal Tutor (SaaS)**: Implementing a RAG pipeline with MongoDB Atlas vector search and OpenAI API.
